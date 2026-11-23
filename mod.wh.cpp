@@ -2,7 +2,7 @@
 // @id              rovan-menu
 // @name            Rovan Menu
 // @description     Roey's private customized start menu with themes in Windows 11.
-// @version         4.5.6
+// @version         1.2.3
 // @author          Roey Qian
 // @github          https://github.com/roeyqian
 // @include         StartMenuExperienceHost.exe
